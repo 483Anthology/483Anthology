@@ -39,7 +39,7 @@ For the best experience, we recommend using a modern web browser.
 
 ## 🙌 Acknowledgments  
 
-This project is the result of the dedication and effort of each student who contributed to these analyses. We would also like to thank **Mike, Catalina, and Tanya** for their guidance and support in creating this anthology.  
+This project is the result of the dedication and effort of each student who contributed to these analyses. We would also like to thank **Mike, Sam and Tanya** for their guidance and support in creating this anthology.  
 
 Thank you for contributing to this digital archive and making this collection of voices and perspectives possible.  
 
